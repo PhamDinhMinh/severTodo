@@ -1,27 +1,29 @@
 {
   "todoList": [
     {
-      "title": "sss cđnb",
-      "description": "dadead adssd",
+      "title": "Xin chào",
+      "description": "Học toán thôi nào",
       "date": "2023-06-02",
       "piority": "Normal",
       "id": 1
     },
     {
-      "title": "Hello chú anh",
-      "description": "cccc",
+      "title": "Hello chú",
+      "description": "Chào mọi người ạ",
+      "date": "2023-06-15",
+      "piority": "Hight",
       "id": 2
     },
     {
-      "title": "Hi học toán này cfdc",
-      "description": "Học toán cao cấp 555",
+      "title": "Hi học toán này",
+      "description": "Học toán cao cấp Cấp tốc ạ",
       "date": "2023-06-15",
       "piority": "Low",
       "id": 5
     },
     {
       "title": "Học thử toán anh xem sao",
-      "description": "1234 4321",
+      "description": "Quyết tâm học bắt đầu từ những ngày nay",
       "date": "2023-06-08",
       "piority": "Low",
       "id": 6
@@ -34,8 +36,8 @@
       "id": 7
     },
     {
-      "title": "hello ",
-      "description": "222222",
+      "title": "Learn English ",
+      "description": "Học toán lý hóa nè",
       "date": "2023-06-14",
       "piority": "High",
       "id": 8
